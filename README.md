@@ -55,6 +55,11 @@ Visit http://localhost
 ./vendor/bin/pint
 ```
 
+## Testing
+
+```bash
+mkdir tests/Unit
+```
 ```bash
 ./vendor/bin/sail artisan test --parallel
 ```
