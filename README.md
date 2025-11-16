@@ -56,5 +56,5 @@ Visit http://localhost
 ```
 
 ```bash
-./vendor/bin/ sail artisan test --parallel
+./vendor/bin/sail artisan test --parallel
 ```
